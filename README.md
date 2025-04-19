@@ -59,7 +59,7 @@ I enjoy learning new technologies, solving real-world problems through code, and
 ---
 
 ### 📫 **Let's Connect**
-- GitHub: [faqirullah](https://github.com/faqirullah)
+- GitHub: [faqirullah](https://github.com/faqirullahafridi)
 - LinkedIn: [https://www.linkedin.com/in/faqir-ullah-002372322]
 - Email: [faqir.ullahhh@gmail.com]
 
@@ -67,4 +67,15 @@ I enjoy learning new technologies, solving real-world problems through code, and
 
 Thanks for visiting my profile!  
 _“Always curious, constantly learning, and driven to build better solutions.”_
+
+
+---
+
+### 📊 GitHub Stats
+
+![Faqir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faqirullahafridi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faqirullahafridi&layout=compact&theme=radical)
+
+---
+
 
