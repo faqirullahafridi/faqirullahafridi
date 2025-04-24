@@ -8,7 +8,7 @@ I enjoy learning new technologies, solving real-world problems through code, and
 
 ---
 
-### 🧠 **A Bit About Me**
+###  **A Bit About Me**
 
 - I'm currently working on web-based platforms using **Flask** and **Django**
 - I have experience designing and building both small and large-scale applications using **Python** and **SQL**
@@ -18,7 +18,7 @@ I enjoy learning new technologies, solving real-world problems through code, and
 
 ---
 
-### 🔧 **Skills & Technologies**
+###  **Skills & Technologies**
 
 #### **Web Development**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +36,7 @@ I enjoy learning new technologies, solving real-world problems through code, and
 
 ---
 
-### 🚀 **Projects**
+###  **Projects**
 
 - **Admin Panel (Flask)**  
   Developed a fully functional admin panel with a modern UI using Flask. Integrated dynamic content management and built REST APIs for backend operations.
@@ -49,7 +49,7 @@ I enjoy learning new technologies, solving real-world problems through code, and
 
 ---
 
-### 📌 **Current Goals**
+###  **Current Goals**
 
 - Master advanced Django features and deployment
 - Explore automation testing tools like Selenium or Postman
@@ -58,7 +58,7 @@ I enjoy learning new technologies, solving real-world problems through code, and
 
 ---
 
-### 📫 **Let's Connect**
+###  **Let's Connect**
 - GitHub: [faqirullah](https://github.com/faqirullahafridi)
 - LinkedIn: [https://www.linkedin.com/in/faqir-ullah-002372322]
 - Email: [faqir.ullahhh@gmail.com]
@@ -71,7 +71,7 @@ _“Always curious, constantly learning, and driven to build better solutions.�
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![Faqir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faqirullahafridi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faqirullahafridi&layout=compact&theme=radical)
