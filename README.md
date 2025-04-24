@@ -1,4 +1,4 @@
-# Hi there, I'm Faqir Ullah! 👋
+# Hi there, I'm Faqir Ullah! 
 
 Welcome to my GitHub profile!
 
