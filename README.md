@@ -77,5 +77,6 @@ _â€œAlways curious, constantly learning, and driven to build better solutions.â€
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faqirullahafridi&layout=compact&theme=radical)
 
 ---
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="faqir-ullah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/faqir-ullah?trk=profile-badge">Faqir ullah</a></div>
+              
 
