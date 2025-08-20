@@ -34,7 +34,6 @@
 ## 🧬 **SYSTEM.ABOUT()**
 
 <div align="left">
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" />
 
 ```python
 class Developer:
@@ -122,8 +121,16 @@ class Developer:
 <div align="center">
   
 <!-- GitHub Stats with Neon Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=faqirullahafridi&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,667eea,764ba2,f093fb&title_color=00f5ff&icon_color=00ff41&text_color=ffffff&ring_color=ff6b35" height="190" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faqirullahafridi&theme=synthwave&hide_border=true&bg_color=0,f093fb,667eea,764ba2&title_color=00f5ff&text_color=ffffff&layout=donut&langs_count=6" height="190" />
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=faqirullahafridi&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,667eea,764ba2,f093fb&title_color=00f5ff&icon_color=00ff41&text_color=ffffff&ring_color=ff6b35" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faqirullahafridi&theme=synthwave&hide_border=true&bg_color=0,f093fb,667eea,764ba2&title_color=00f5ff&text_color=ffffff&layout=donut&langs_count=6" />
+    </td>
+  </tr>
+</table>
 
 <!-- Holographic Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faqirullahafridi&theme=neon-dark&hide_border=true&background=45,667eea,764ba2,f093fb&stroke=00f5ff&ring=ff6b35&fire=00ff41&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
@@ -191,7 +198,13 @@ mindmap
 <div align="center">
 
 <!-- Dynamic Quote Generator -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" />
+```bash
+$ curl -s https://api.quotegarden.com/quotes/random | jq '.quote'
+
+"Any fool can write code that a computer can understand. 
+ Good programmers write code that humans can understand."
+                                        - Martin Fowler
+```
 
 </div>
 
@@ -222,18 +235,46 @@ mindmap
 
 <div align="center">
 
-<!-- Dev Joke -->
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=%230d1117" />
+<!-- Dev Wisdom -->
+```bash
+$ echo "Random Dev Wisdom"
+> "There are only two hard things in Computer Science: 
+  cache invalidation and naming things." - Phil Karlton
 
-<!-- Random Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+$ fortune | cowsay
+ _________________________________________
+/ Programming is like writing a book...  \
+| except if you miss out a single comma  |
+| on page 126, the whole thing won't     |
+\ work.                                   /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faqirullahafridi/faqirullahafridi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faqirullahafridi/faqirullahafridi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faqirullahafridi/faqirullahafridi/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Code Philosophy -->
+```ascii
+┌─────────────────────────────────────────┐
+│  "Code is read much more often than     │
+│   it is written." - Guido van Rossum   │
+│                                         │
+│  "Talk is cheap. Show me the code."    │
+│   - Linus Torvalds                     │
+└─────────────────────────────────────────┘
+```
+
+<!-- Contribution Activity -->
+```bash
+$ git log --oneline --graph --all
+* 2f8a9c1 feat: implement smart booking system
+* 4b7d3e2 refactor: optimize database queries  
+* 8c1f6a9 test: add comprehensive QA coverage
+* 3e9b2d7 docs: update project documentation
+* 7a4c8f1 deploy: production release v2.1.0
+```
 
 </div>
 
@@ -242,12 +283,24 @@ mindmap
 ## 🏆 **ACHIEVEMENT UNLOCKED**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faqirullahafridi&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" />
+
+```ascii
+🏆 ACHIEVEMENTS EARNED 🏆
+╭─────────────────────────────────────╮
+│ ⭐ Code Quality Master              │
+│ 🚀 Full Stack Architect            │
+│ 🧪 Testing Specialist              │
+│ 💎 Bug Hunter Elite                │
+│ 🌟 Innovation Pioneer              │
+│ 📚 Continuous Learner              │
+╰─────────────────────────────────────╯
+```
+
 </div>
 
 ---
 
-<!-- Cyberpunk Footer -->
+<!-- Terminal Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:667eea,50:764ba2,100:f093fb&section=footer&reversal=true&textBg=true" />
   
@@ -257,7 +310,8 @@ mindmap
   <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-ff6b6b?style=for-the-badge" />
 </div>
 
-<!-- Matrix Rain Effect -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="50" />
-</div>
+<!-- Terminal Matrix Effect -->
+```bash
+$ echo "Thanks for visiting! Happy coding! 🚀"
+$ while true; do echo "✨ Keep building amazing things! ✨"; sleep 1; done
+```
