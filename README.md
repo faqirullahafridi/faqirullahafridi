@@ -1,6 +1,7 @@
 <!-- Cyberpunk Header -->
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodingbytes.com%2Fare-web-development-and-full-stack-same%2F&psig=AOvVaw1F9uIHf5C4grcJjaARu4bS&ust=1755768150997000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCLqfyHmY8DFQAAAAAdAAAAABAE)type=venom&height=350&text=FAQIR%20ULLAH&fontSize=70&color=0:667eea,50:764ba2,100:f093fb&fontColor=fff&stroke=ffffff&strokeWidth=2&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Developer%20%20%7C%20%20QA%20Engineer&descAlignY=58&descAlign=50&descSize=20" />
+  <img src="
+    same%2F&psig=AOvVaw1F9uIHf5C4grcJjaARu4bS&ust=1755768150997000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCLqfyHmY8DFQAAAAAdAAAAABAE)type=venom&height=350&text=FAQIR%20ULLAH&fontSize=70&color=0:667eea,50:764ba2,100:f093fb&fontColor=fff&stroke=ffffff&strokeWidth=2&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Developer%20%20%7C%20%20QA%20Engineer&descAlignY=58&descAlign=50&descSize=20" />
 </div>
 
 <br />
