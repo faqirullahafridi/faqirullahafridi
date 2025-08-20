@@ -1,105 +1,208 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Faqir Ullah</span></h1>
-<h3 align="center">🚀 Full Stack Web Developer | 🧪 QA Engineer</h3>
+<!-- Hero Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Faqir%20Ullah&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20QA%20Engineer&descAlignY=51&descAlign=50" />
+</div>
 
+<!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+Flask;React+%7C+Node.js+%7C+Three.js;Manual+QA+Engineer;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+the+Future+with+Code;🧪+Quality+Through+Testing;💡+Innovation+Through+Technology" />
 </p>
 
----
-
-## 👨‍💻 About Me  
-
-- 💻 Passionate about building **scalable and user-friendly web applications**  
-- 🧪 Skilled **Manual QA Engineer** ensuring **quality & reliability** through testing  
-- 🎯 Currently working on **SmartBooking System** *(Dashboard + Website)*  
-- 🌱 Exploring **Automation Testing** with **Selenium** & **Postman**  
-- 💡 Always curious, constantly learning, and improving!  
+<!-- Professional Badge Section -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00D9FF?style=for-the-badge&logo=calendar&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00FF94?style=for-the-badge&logo=code&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Passion-Quality%20Assurance-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1a1a" />
+</div>
 
 ---
 
-## 🛠 Tech Stack  
+## 🎯 **About Me**
 
-### 🌐 **Frontend**
-![HTML](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 
-### ⚙️ **Backend**
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🗄️ **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔧 **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
-
-### ✅ **Quality Assurance**
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-ff6f00?style=for-the-badge)
-![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-ffb800?style=for-the-badge)
-![Functional Testing](https://img.shields.io/badge/Functional%20Testing-00a86b?style=for-the-badge)
+```typescript
+const faqirUllah = {
+  role: "Full Stack Developer & QA Engineer",
+  location: "Peshawar, Pakistan 🇵🇰",
+  passion: ["Clean Code", "User Experience", "Quality Testing"],
+  currentFocus: "Building SmartBooking System",
+  learningNext: ["Automation Testing", "Cloud Architecture"],
+  mindset: "Code with purpose, test with precision",
+  
+  workingOn: {
+    project: "SmartBooking System",
+    type: "Full Stack Application",
+    status: "In Development 🚧"
+  },
+  
+  beliefs: [
+    "Quality over Quantity",
+    "Continuous Learning",
+    "User-Centric Design"
+  ]
+};
+```
 
 ---
 
-## 📂 Featured Projects  
+## ⚡ **Tech Arsenal**
 
-🔹 **Admin Panel (Flask)** – REST APIs, Role-based Access, Modern UI  
-🔹 **Admin Panel (Django)** – Content & User Management  
-🔹 **Britannia Consultants Website** – Full Stack + Database Integration  
-🔹 **School Management System** – Django + Supabase  
-🔹 **SmartBooking System (In Progress)** – Dashboard + Website Booking  
-🔹 **Upcoming:** Passport Photo Editor – Cropping, Background Editing, Export  
-
----
-
-## 🎯 Goals for 2025  
-
-- 🚀 Master **Advanced Django & Deployment**  
-- 🤖 Implement **Automation Testing** for web apps  
-- 🌍 Contribute to **Open Source Projects**  
-- 🏗️ Build & Scale **Real-world Full-Stack Apps**  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-<a href="https://github.com/faqirullahafridi" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/faqir-ullah-002372322" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:faqir.ullahhh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<div align="center">
+  
+### 🎨 **Frontend Mastery**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,threejs" />
 </p>
 
+### 🔧 **Backend Excellence**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express,graphql" />
+</p>
+
+### 🗃️ **Database Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase" />
+</p>
+
+### 🛠️ **Development Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+</p>
+
+### ✅ **Quality Assurance Expertise**
+<img src="https://img.shields.io/badge/Manual_Testing-Expert-00D9FF?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Smoke_Testing-Proficient-00FF94?style=for-the-badge&logo=smoke&logoColor=white" />
+<img src="https://img.shields.io/badge/Functional_Testing-Advanced-FF6B6B?style=for-the-badge&logo=testing&logoColor=white" />
+<img src="https://img.shields.io/badge/API_Testing-Learning-FFE66D?style=for-the-badge&logo=postman&logoColor=white" />
+
+</div>
+
 ---
 
-## 📊 GitHub Stats  
+## 🚀 **Project Showcase**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faqirullahafridi&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faqirullahafridi&layout=compact&theme=tokyonight" height="165">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faqirullahafridi&theme=tokyonight" alt="GitHub Streak">
-</p>
+| 🏆 **Featured Projects** | 🛠️ **Tech Stack** | 📊 **Status** |
+|:------------------------:|:------------------:|:-------------:|
+| **SmartBooking System** | Django + React + PostgreSQL | 🚧 In Progress |
+| **Britannia Consultants** | Full Stack + Database | ✅ Completed |
+| **School Management** | Django + Supabase | ✅ Completed |
+| **Admin Panel (Flask)** | Flask + REST APIs | ✅ Completed |
+| **Passport Photo Editor** | React + Canvas API | 📅 Upcoming |
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faqirullahafridi&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faqirullahafridi&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&layout=compact&langs_count=8" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faqirullahafridi&theme=react&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=ffffff" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faqirullahafridi&bg_color=0d1117&color=ffffff&line=00d9ff&point=ff6b6b&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🎯 **2025 Roadmap**
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🎯 2025 Goals] --> B[🚀 Advanced Django Mastery]
+    A --> C[🤖 Automation Testing]
+    A --> D[🌍 Open Source Contributions]
+    A --> E[🏗️ Scalable Applications]
+    
+    B --> B1[Microservices Architecture]
+    B --> B2[Cloud Deployment]
+    
+    C --> C1[Selenium WebDriver]
+    C --> C2[API Testing Automation]
+    
+    D --> D1[Contributing to Django]
+    D --> D2[Creating Testing Tools]
+    
+    E --> E1[Real-world Projects]
+    E --> E2[Production-ready Apps]
+```
+
+</div>
+
+---
+
+## 🌐 **Let's Connect**
+
+<div align="center">
+  <a href="https://github.com/faqirullahafridi">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=000000" />
+  </a>
+  <a href="https://www.linkedin.com/in/faqir-ullah-002372322">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:faqir.ullahhh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/faqirullah">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🌟 **Words That Inspire Me**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+</div>
+
+### 💭 **Daily Motivations**
+
+<div align="center">
+
+> *"The only way to do great work is to love what you do."*  
+> **— Steve Jobs**
+
+> *"Quality is not an act, it is a habit."*  
+> **— Aristotle**
+
+> *"First, solve the problem. Then, write the code."*  
+> **— John Johnson**
+
+> *"Testing leads to failure, and failure leads to understanding."*  
+> **— Burt Rutan**
+
+> *"The best error message is the one that never shows up."*  
+> **— Thomas Fuchs**
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🔥 **"Debugging is like being the detective in a crime movie where you are also the murderer."**
+
+<img src="https://readme-jokes.vercel.app/api?theme=react&hideBorder&bgColor=%23000000" alt="Random Dev Joke" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+  
+  **💫 "Code with passion, test with precision, and always keep learning!" 💫**
+  
+  <img src="https://komarev.com/ghpvc/?username=faqirullahafridi&color=00d9ff&style=flat-square&label=Profile+Views" />
+</div>
