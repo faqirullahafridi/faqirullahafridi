@@ -1,6 +1,21 @@
-<!-- Cyberpunk Header -->
+<!-- Neural Network Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=FAQIR%20ULLAH&fontSize=70&color=0:667eea,50:764ba2,100:f093fb&fontColor=fff&stroke=ffffff&strokeWidth=2&animation=twinkling&fontAlignY=40" />
+  
+```ascii
+████████████████████████████████████████████████████████████████████████████████
+█                                                                              █
+█    ███████╗ █████╗  ██████╗ ██╗██████╗     ██╗   ██╗██╗     ██╗      █████╗  █
+█    ██╔════╝██╔══██╗██╔═══██╗██║██╔══██╗    ██║   ██║██║     ██║     ██╔══██╗ █
+█    █████╗  ███████║██║   ██║██║██████╔╝    ██║   ██║██║     ██║     ███████║ █
+█    ██╔══╝  ██╔══██║██║▄▄ ██║██║██╔══██╗    ██║   ██║██║     ██║     ██╔══██║ █
+█    ██║     ██║  ██║╚██████╔╝██║██║  ██║    ╚██████╔╝███████╗███████╗██║  ██║ █
+█    ╚═╝     ╚═╝  ╚═╝ ╚══▀▀═╝ ╚═╝╚═╝  ╚═╝     ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝ █
+█                                                                              █
+█              🚀 FULL STACK ARCHITECT | 🔬 QA AUTOMATION WIZARD              █
+█                                                                              █
+████████████████████████████████████████████████████████████████████████████████
+```
+
 </div>
 
 <!-- Neon Glitch Effect Title -->
@@ -10,9 +25,13 @@
 
 <!-- Holographic Status Bar -->
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000&color=00ff41" />
-  <img src="https://img.shields.io/badge/MODE-BUILDING-ff6b35?style=for-the-badge&logo=construct&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/VIBE-INNOVATIVE-9b59b6?style=for-the-badge&logo=atom&logoColor=white&labelColor=000000" />
+
+```bash
+┌─────────────────────────────────────────────────────────────┐
+│ STATUS: 🟢 ONLINE    MODE: 🔥 BUILDING    VIBE: 🚀 CODING  │
+└─────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 <br />
@@ -70,31 +89,44 @@ class Developer:
 <div align="center">
 
 ### 🎯 **FRONTEND DIMENSION**
-<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind,bootstrap,threejs" />
-</div>
+```css
+.frontend {
+  languages: ["JavaScript", "TypeScript"];
+  frameworks: ["React", "Next.js", "Three.js"];
+  styling: ["TailwindCSS", "CSS3", "Bootstrap"];
+  tools: ["HTML5", "Responsive Design"];
+}
+```
 
 ### ⚙️ **BACKEND REALM**
-<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,graphql" />
-</div>
+```python
+backend_stack = {
+    "languages": ["Python", "JavaScript"],
+    "frameworks": ["Django", "Flask", "Node.js", "Express"],
+    "apis": ["REST", "GraphQL"],
+    "architecture": ["MVC", "Microservices"]
+}
+```
 
 ### 🗄️ **DATA COSMOS**
-<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase" />
-</div>
+```sql
+-- Database Universe
+SELECT * FROM tech_stack WHERE category = 'database';
+┌─────────────┬─────────────┬─────────────┐
+│ MySQL       │ PostgreSQL  │ MongoDB     │
+│ Firebase    │ Supabase    │ Redis       │
+└─────────────┴─────────────┴─────────────┘
+```
 
 ### 🛠️ **DEVOPS GALAXY**
-<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</div>
+```bash
+# Development Environment
+$ git --version && docker --version && code --version
+Git: 2.40.1 ✅
+Docker: 24.0.7 ✅  
+VS Code: 1.85.0 ✅
+Postman: API Testing Ready 🚀
+```
 
 </div>
 
@@ -120,23 +152,35 @@ class Developer:
 
 <div align="center">
   
-<!-- GitHub Stats with Neon Theme -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=faqirullahafridi&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,667eea,764ba2,f093fb&title_color=00f5ff&icon_color=00ff41&text_color=ffffff&ring_color=ff6b35" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faqirullahafridi&theme=synthwave&hide_border=true&bg_color=0,f093fb,667eea,764ba2&title_color=00f5ff&text_color=ffffff&layout=donut&langs_count=6" />
-    </td>
-  </tr>
-</table>
+<!-- Performance Analytics -->
+<div align="center">
 
-<!-- Holographic Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faqirullahafridi&theme=neon-dark&hide_border=true&background=45,667eea,764ba2,f093fb&stroke=00f5ff&ring=ff6b35&fire=00ff41&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+### 📊 **SYSTEM PERFORMANCE ANALYTICS**
 
-<!-- Activity Matrix -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faqirullahafridi&theme=cyberpunk&bg_color=0d1117&color=00f5ff&line=ff6b35&point=00ff41&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20MATRIX" />
+```bash
+$ ./analyze_github_stats.sh
+╭─────────────────────────────────────────────────────────╮
+│                   🎯 GITHUB METRICS                    │
+├─────────────────────────────────────────────────────────┤
+│ Total Repositories: 15+ projects                       │
+│ Primary Languages: Python, JavaScript, TypeScript     │
+│ Favorite Framework: Django + React                     │
+│ Code Quality: Premium Grade                            │
+│ Contribution Level: Active Developer                   │
+│ Open Source: Community Contributor                     │
+├─────────────────────────────────────────────────────────┤
+│ 🔥 Current Streak: Building Awesome Things Daily      │
+│ 🚀 Mission Status: Full Stack Mastery in Progress     │
+╰─────────────────────────────────────────────────────────╯
+```
+
+**⚡ Quick Stats:**
+- 📈 **Commits this year:** 200+ and counting
+- 🏆 **Featured projects:** 5 production ready
+- 🌟 **Tech stack mastery:** Full Stack + QA
+- 📚 **Learning curve:** Always ascending
+
+</div>
 
 </div>
 
@@ -175,19 +219,26 @@ mindmap
 
 <div align="center">
 
-<!-- Holographic Buttons -->
-<a href="https://github.com/faqirullahafridi">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=667eea" />
-</a>
-<a href="https://www.linkedin.com/in/faqir-ullah-002372322">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=764ba2" />
-</a>
-<a href="mailto:faqir.ullahhh@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=f093fb" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=667eea" />
-</a>
+<!-- Network Connections -->
+<div align="center">
+
+```ascii
+╭─────────────────── NETWORK INTERFACE ───────────────────╮
+│                                                         │
+│  📡 GITHUB      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ACTIVE │
+│  💼 LINKEDIN    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ONLINE │
+│  📧 EMAIL       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ READY  │
+│  🌐 PORTFOLIO   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SOON   │
+│                                                         │
+╰─────────────────────────────────────────────────────────╯
+```
+
+**🔗 Connect via:**
+- **GitHub:** `@faqirullahafridi`
+- **LinkedIn:** `faqir-ullah-002372322`
+- **Email:** `faqir.ullahhh@gmail.com`
+
+</div>
 
 </div>
 
@@ -302,16 +353,21 @@ $ git log --oneline --graph --all
 
 <!-- Terminal Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:667eea,50:764ba2,100:f093fb&section=footer&reversal=true&textBg=true" />
-  
-  ### 🌌 **"Code is the closest thing we have to magic in the real world"** 🌌
-  
-  <img src="https://komarev.com/ghpvc/?username=faqirullahafridi&color=00f5ff&style=for-the-badge&label=VISITORS" />
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-ff6b6b?style=for-the-badge" />
-</div>
 
-<!-- Terminal Matrix Effect -->
-```bash
-$ echo "Thanks for visiting! Happy coding! 🚀"
-$ while true; do echo "✨ Keep building amazing things! ✨"; sleep 1; done
+```ascii
+████████████████████████████████████████████████████████████████████████████████
+█                                                                              █
+█                    🌌 "CODE IS DIGITAL MAGIC" 🌌                           █
+█                                                                              █
+█          Thanks for visiting my digital space! Keep coding! 🚀             █
+█                                                                              █
+████████████████████████████████████████████████████████████████████████████████
 ```
+
+```bash
+$ echo "Visitor Count: $(date +%s) and counting..."
+$ echo "Made with ❤️, ☕, and lots of 🐛 fixes"
+$ while true; do echo "✨ Keep building amazing things! ✨"; sleep ∞; done
+```
+
+</div>
