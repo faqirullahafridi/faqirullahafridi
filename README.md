@@ -1,19 +1,28 @@
 <!-- Hero Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Faqir%20Ullah&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20QA%20Engineer&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=350&section=header&text=Faqir%20Ullah&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Developer%20%20%7C%20%20QA%20Engineer&descAlignY=58&descAlign=50&descSize=20" />
 </div>
+
+<br />
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+the+Future+with+Code;🧪+Quality+Through+Testing;💡+Innovation+Through+Technology" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Building+the+Future+with+Code;🧪+Quality+Through+Testing;💡+Innovation+Through+Technology" />
 </p>
+
+<br />
 
 <!-- Professional Badge Section -->
 <div align="center">
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00D9FF?style=for-the-badge&logo=calendar&logoColor=white&labelColor=1a1a1a" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00FF94?style=for-the-badge&logo=code&logoColor=white&labelColor=1a1a1a" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Passion-Quality%20Assurance-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1a1a" />
 </div>
+
+<br />
+<br />
 
 ---
 
